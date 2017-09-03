@@ -1,7 +1,6 @@
 # gitpractice
 
-![Test dot](https://g.gravizo.com/svg?
-  digraph G {
+![Test dot](https://g.gravizo.com/svg?digraph G {
     aize ="4,4";
     main [shape=box];
     main -> parse [weight=8];
